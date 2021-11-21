@@ -1,7 +1,7 @@
 ### 🦕 Welcome to Jurass-ehm...my GitHub Profile!
 
 - 💙 I'm a passionate developer that finds happiness helping others realizing their dreams with software
-- 💼 Currently working as a remote Full Stack Engineer @hlpy
+- 💼 Currently working as a remote Full Stack Engineer [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
 - 💏 In a relationship with [@pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - ⚙ Feeling great when coding in Node.js and Python
