@@ -5,7 +5,7 @@
 - 💏 In a relationship with [@pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - ⚙ Feeling great when coding in Node.js and Python
-- 📕 Currently studying Vue.js and Ansible 
+- 📕 Currently studying Vue.js and Asterisk 
 - 💻 Actually coding Denvair for [@Airthics](https://github.com/Airthics)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's cubes
