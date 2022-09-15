@@ -5,12 +5,12 @@
 - 💏 In a relationship with [@pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - ⚙ Feeling great when coding in TypeScript and Python
-- 📕 Deepening my Docker knowledge and studying D3
-- 💻 Actually coding Denvair for [@Airthics](https://github.com/Airthics)
+- 📕 Currently deepening my knowledge about CI/CD and blogging 
+- 💻 Actually coding [Bulbasandro](https://github.com/Airscripts/bulbasandro) and [blog.airscript.it](https://github.com/Airscripts/blog.airscript.it)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's cubes
-- 💪🏻 Constantly working out as a Calisthenics athlete
-- 🎮 In my free time I'm playing videogames, mostly Monster Hunter
+- 💪️ Constantly working out as a Calisthenics athlete
+- 🎮 In my free time I play videogames, mostly Monster Hunter and Souls-like
 - 📚 I seek for knowledge on books and articles everyday
 - 🎯 Obsessed with goals and personal development
-- 🏳️‍🌈 He/Him
+- 🌈️ He/Him
