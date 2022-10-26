@@ -6,7 +6,7 @@
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - ⚙ Feeling great when coding in TypeScript and Python
 - 📕 Currently deepening my knowledge about CI/CD and blogging 
-- 💻 Actually coding [Bulbasandro](https://github.com/Airscripts/bulbasandro) and [blog.airscript.it](https://github.com/Airscripts/blog.airscript.it)
+- 💻 Actually coding [bari.dev](https://github.com/bari-dev/bari.dev) and its [Design System](https://github.com/bari-dev/bari-dev-components)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's cubes
 - 💪️ Constantly working out as a Calisthenics athlete
