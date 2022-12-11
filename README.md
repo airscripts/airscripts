@@ -13,4 +13,4 @@
 - 🎮 In my free time I play videogames, mostly Monster Hunter and Souls-like
 - 📚 I seek for knowledge on books and articles everyday
 - 🎯 Obsessed with goals and personal development
-- 🌈️ He/Him
+- 🌈️ Vi/Vim
