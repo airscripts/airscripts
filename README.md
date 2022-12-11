@@ -4,6 +4,7 @@
 - 💼 Currently working as a remote Software Engineer [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
 - 💏 In a relationship with [@pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
+- ✈️ Admin for [Open Source Support](https://t.me/ptkdev_support_italian)
 - ⚙ Feeling great when coding in TypeScript and Python
 - 📕 Currently deepening my knowledge about CI/CD and blogging 
 - 💻 Actually coding [bari.dev](https://github.com/bari-dev/bari.dev) and its [Design System](https://github.com/bari-dev/bari-dev-components)
