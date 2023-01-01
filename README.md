@@ -1,13 +1,13 @@
 ### 🦕 Welcome to Jurass-ehm...my GitHub Profile!
 
 - 💙 I'm a passionate Software Engineer sharing happiness with code
-- 💼 Currently working as a Remote Software Engineer [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
-- 💏 In a relationship with [@pannyloo](https://instagram.com/pannyloo)
+- 💼 Currently working as a Remote Software Engineer [@Hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
+- 💏 In a relationship with [@Pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - ✈️ Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
 - ⚙ Feeling great when coding in TypeScript and Python
-- 📕 Currently deepening my knowledge about F# 
-- 💻 Actually coding [bari.dev](https://github.com/bari-dev/bari.dev) and its [Design System](https://github.com/bari-dev/bari-dev-components)
+- 📕 Currently deepening my knowledge about F# and Nim
+- 💻 Actually coding [Devine](https://github.com/Airscripts/devine)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's Cubes
 - 💪️ Constantly working out as a Calisthenics Athlete
