@@ -15,3 +15,4 @@
 - 📚 I seek for knowledge everyday
 - 🎯 Obsessed with goals and personal development
 - 🌈️ Vi/Vim
+
