@@ -4,8 +4,8 @@
 - 💼 Currently working as a Remote Software Engineer [@Hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
 - 💏 In a relationship with [@Pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
-- 🪄 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
-- ⚙ Feeling great when coding in TypeScript and Python
+- 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
+- 🦸 Feeling super when coding in TypeScript and Python
 - 📕 Currently deepening my knowledge about F# and Nim
 - 💻 Actually coding [Devine](https://github.com/Airscripts/devine)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
