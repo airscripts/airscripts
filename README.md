@@ -1,7 +1,7 @@
 ### 🦕 Welcome to Jurass-ehm...my GitHub Profile!
 
 - 💙 I'm a passionate Software Engineer sharing happiness with code
-- 💼 Currently working as a Remote Software Engineer [@Hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
+- 💼 Currently working as a Remote Software Engineer [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
 - 💏 In a relationship with [@Pannyloo](https://instagram.com/pannyloo)
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
