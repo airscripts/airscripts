@@ -7,7 +7,7 @@
 - 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
 - 🦸 Feeling super when coding in TypeScript and Python
 - 📕 Currently deepening my knowledge about F# and Nim
-- 💻 Actually coding [Devine](https://github.com/Airscripts/devine)
+- 💻 Actually working on [Devine](https://github.com/airscripts/devine) and [Dinos](https://github.com/molivair/dinos)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's Cubes
 - 💪️ Constantly working out as a Calisthenics Athlete
