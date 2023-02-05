@@ -6,7 +6,7 @@
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
 - 🦸 Feeling super when coding in TypeScript and Python
-- 📕 Currently deepening my knowledge about F# and Nim
+- 📕 Currently deepening my knowledge about F#, Nim and LaTeX
 - 💻 Actually working on [Devine](https://github.com/airscripts/devine) and [Dinos](https://github.com/molivair/dinos)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's Cubes
