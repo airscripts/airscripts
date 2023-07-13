@@ -6,12 +6,12 @@
 - 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
 - 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
 - 🦸 Feeling super when coding in TypeScript and Python
-- 📕 Currently deepening my knowledge about F#, Nim and LaTeX
-- 💻 Actually working on [Home](https://github.com/airscripts/home) and [Dinos](https://github.com/molivair/dinos)
+- 📕 Currently deepening my knowledge about Kubernetes and Design Systems
+- 💻 Actually working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 - 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
 - 🧩 I'm solving puzzles everyday, especially Rubik's Cubes
 - 💪️ Constantly working out as a Calisthenics Athlete
-- 🎮 In my free time I play [videogames](https://twitch.tv/airscript), mostly Monster Hunter and Souls-like
+- 🎮 In my free time I play [videogames](https://youtube.com/@airscripts), mostly Monster Hunter and Souls-like
 - 📚 I seek for knowledge everyday
 - 🎯 Obsessed with goals and personal development
 - 🌈️ Vi/Vim
