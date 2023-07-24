@@ -59,7 +59,7 @@ Here you can find all kind of social links to connect with me:
   <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
 </a>
 
-## Support Me
+## Share Support
 You can show support in different ways: you can follow me here on other linked platforms, contribute or share or star a project, or also sponsor me making a donation.  
 Donations can be made on different platforms and can be one-time or recurring.  
 It all up to you!
