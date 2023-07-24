@@ -62,7 +62,7 @@ Here you can find all kind of social links to connect with me:
 ## Share Support
 You can show support in different ways: you can follow me here on other linked platforms, contribute or share or star a project, or also sponsor me making a donation.  
 Donations can be made on different platforms and can be one-time or recurring.  
-It all up to you!
+It is all up to you to choose to join the [Sponsorsheep](https://github.com/airscripts/sponsorsheep) gang or not!
 
 <a href="https://sponsor.airscript.it" target="blank">
   <img src="./assets/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
