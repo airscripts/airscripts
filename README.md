@@ -52,9 +52,6 @@ Here you can find all kind of social links to connect with me:
 <a href="https://linktree.airscript.it" target="blank">
   <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
 </a>
-<a>
-  <img src="./assets/images/nintendo-switch.svg" alt="Nintendo Switch" title="Airscript" width="30px" />
-</a>&nbsp;
 
 ## Support Me
 You can show support in different ways: you can follow me here on other linked platforms, contribute or share or star a project, or also sponsor me making a donation.  
