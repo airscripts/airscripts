@@ -46,7 +46,6 @@ Here you can find all kind of social links to connect with me:
 <a href="https://discord.airscript.it" target="blank">
   <img src="./assets/images/discord.svg" alt="Discord" width="30px" />
 </a>&nbsp;
-
 <a href="https://psn.airscript.it" target="blank">
   <img src="./assets/images/playstation.svg" alt="PlayStation" width="30px" />
 </a>&nbsp;
@@ -54,7 +53,7 @@ Here you can find all kind of social links to connect with me:
   <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
 </a>
 <a>
-  <img src="./assets/images/nintendo-switch.svg" alt="Twitch" title="Airscript" width="30px" />
+  <img src="./assets/images/nintendo-switch.svg" alt="Nintendo Switch" title="Airscript" width="30px" />
 </a>&nbsp;
 
 ## Support Me
