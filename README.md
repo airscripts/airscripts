@@ -25,6 +25,9 @@ Here you can find all kind of social links to connect with me:
 <a href="https://linkedin.airscript.it" target="blank">
   <img src="./assets/images/linkedin.svg" alt="LinkedIn" width="30px"/>
 </a>&nbsp;
+<a href="https://telegram.airscript.it" target="blank">
+  <img src="./assets/images/telegram.svg" alt="Telegram" width="30px"/>
+</a>&nbsp;
 <a href="https://twitter.airscript.it" target="blank">
   <img src="./assets/images/twitter.svg" alt="Twitter" width="30px" />
 </a>&nbsp;
@@ -48,6 +51,9 @@ Here you can find all kind of social links to connect with me:
 </a>&nbsp;
 <a href="https://psn.airscript.it" target="blank">
   <img src="./assets/images/playstation.svg" alt="PlayStation" width="30px" />
+</a>&nbsp;
+<a href="https://tinyurl.com/nintendo-switch-airscript" target="blank">
+  <img src="./assets/images/nintendo-switch.svg" alt="Nintendo Switch" width="30px" />
 </a>&nbsp;
 <a href="https://linktree.airscript.it" target="blank">
   <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
