@@ -1,17 +1,67 @@
-### 🦕 Welcome to Jurass-ehm...my GitHub Profile!
+# Hello World
+Hey there! I am Francesco known as Airscript on the web.  
+I am a passionate Software Engineer that literally shares happiness with code.
 
-- 💙 I'm a passionate Software Engineer sharing happiness with code
-- 💼 Currently working as a Remote Software Engineer [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/)
-- 💏 In a relationship with [@Pannyloo](https://instagram.com/pannyloo)
-- 🐢 Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/) 
-- 💬 Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian)
-- 🦸 Feeling super when coding in TypeScript and Python
-- 📕 Currently deepening my knowledge about Kubernetes and Design Systems
-- 💻 Actually working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
-- 🦖 I love dinosaurs! Do you wanna watch Jurassic Park with me?
-- 🧩 I'm solving puzzles everyday, especially Rubik's Cubes
-- 💪️ Constantly working out as a Calisthenics Athlete
-- 🎮 In my free time I play [videogames](https://youtube.com/@airscripts), mostly Monster Hunter and Souls-like
-- 📚 I seek for knowledge everyday
-- 🎯 Obsessed with goals and personal development
-- 🌈️ Vi/Vim
+## About Me
+Currently I am working as a Remote Software Engineer for [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/).  
+While doing this, from time to time I make my own open source softwares that span between CLIs, TUIs and guides mostly.  
+Other than that I am also a Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and lover of [@Pannyloo](https://instagram.com/pannyloo), who's my favorite person.
+
+## Current Projects
+Actually I'm working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck).  
+The goal here is to reach the status of official Awesome List.  
+Aside this, I'm gathering knowledge to achieve [CKA](https://www.cncf.io/certification/cka/) since I am deeply interested in Kubernetes and related stuff.  
+I'm also trying to get better with content creation, making content that spans between videos, posts and blog articles.
+For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
+
+## Latest Posts
+- [Awesome Steam Deck](https://dev.to/airscript/awesome-steam-deck-1do2), on dev.to blog;
+- [Awesome Steam Deck](https://blog.airscript.it/en/posts/open-source/awesome-steam-deck/), on Airscript's blog;
+- [Welcome, Molivair!](https://blog.airscript.it/en/posts/molivair/welcome-molivair/), on Airscript's blog.
+
+## Keep Connected
+Here you can find all kind of social links to connect with me:  
+
+<a href="https://linkedin.airscript.it" target="blank">
+  <img src="./assets/images/linkedin.svg" alt="LinkedIn" width="30px"/>
+</a>&nbsp;
+<a href="https://twitter.airscript.it" target="blank">
+  <img src="./assets/images/twitter.svg" alt="Twitter" width="30px" />
+</a>&nbsp;
+<a href="https://mastodon.airscript.it" target="blank">
+  <img src="./assets/images/mastodon.svg" alt="Mastodon" width="30px" />
+</a>&nbsp;
+<a href="https://youtube.airscript.it" target="blank">
+  <img src="./assets/images/youtube.svg" alt="YouTube" width="30px" />
+</a>&nbsp;
+<a href="https://twitch.airscript.it" target="blank">
+  <img src="./assets/images/twitch.svg" alt="Twitch" width="30px" />
+</a>&nbsp;
+<a href="https://devdotto.airscript.it" target="blank">
+  <img src="./assets/images/devdotto.svg" alt="Devdotto" width="30px" />
+</a>&nbsp;
+<a href="https://gitlab.airscript.it" target="blank">
+  <img src="./assets/images/gitlab.svg" alt="GitLab" width="30px" />
+</a>&nbsp;
+<a href="https://discord.airscript.it" target="blank">
+  <img src="./assets/images/discord.svg" alt="Discord" width="30px" />
+</a>&nbsp;
+  <img src="./assets/images/nintendo-switch.svg" alt="Twitch" title="Airscript" width="30px" />&nbsp;
+<a href="https://psn.airscript.it" target="blank">
+<img src="./assets/images/playstation.svg" alt="PlayStation" width="30px" />
+</a>&nbsp;
+<a href="https://linktree.airscript.it" target="blank">
+  <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
+</a>
+
+## Support Me
+You can show support in different ways: you can follow me here on other linked platforms, contribute or share or star a project, or also sponsor me making a donation.  
+Donations can be made on different platforms and can be one-time or recurring.  
+It all up to you!
+
+<a href="https://sponsor.airscript.it" target="blank">
+  <img src="./assets/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+</a>&nbsp;
+<a href="https://kofi.airscript.it" target="blank">
+  <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
+</a>
