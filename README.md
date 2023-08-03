@@ -70,6 +70,3 @@ It is all up to you to choose to join the [Sponsorsheep](https://github.com/airs
 <a href="https://kofi.airscript.it" target="blank">
   <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
 </a>&nbsp;
-<a href="https://linktree.airscript.it" target="blank">
-  <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
-</a>
