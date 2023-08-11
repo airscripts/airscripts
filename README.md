@@ -14,9 +14,9 @@ I'm also trying to get better with content creation, making content that spans b
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
 
 ## Latest Posts
-- [Linting Your Awesome Lists](https://dev.to/airscript/linting-your-awesome-lists-bai), on https://devdotto.airscript.it
-- [Building Anally Fast Stuff](https://blog.airscript.it/posts/open-source/building-anally-fast-stuff), on https://blog.airscript.it;
-- [Awesome Steam Deck](https://blog.airscript.it/posts/open-source/awesome-steam-deck/), on https://blog.airscript.it;
+- [Linting Your Awesome Lists](https://dev.to/airscript/linting-your-awesome-lists-bai)
+- [Building Anally Fast Stuff](https://blog.airscript.it/posts/open-source/building-anally-fast-stuff)
+- [Awesome Steam Deck](https://blog.airscript.it/posts/open-source/awesome-steam-deck/)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
