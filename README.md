@@ -22,40 +22,40 @@ For this reason I've created and opened, aside my social channels, a [personal b
 Here you can find all kind of social links to connect with me:  
 
 <a href="https://linkedin.airscript.it" target="blank">
-  <img src="./assets/images/linkedin.svg" alt="LinkedIn" width="30px"/>
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linkedin.svg" alt="LinkedIn" width="30px"/>
 </a>&nbsp;
 <a href="https://telegram.airscript.it" target="blank">
-  <img src="./assets/images/telegram.svg" alt="Telegram" width="30px"/>
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/telegram.svg" alt="Telegram" width="30px"/>
 </a>&nbsp;
 <a href="https://twitter.airscript.it" target="blank">
-  <img src="./assets/images/twitter.svg" alt="Twitter" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitter.svg" alt="Twitter" width="30px" />
 </a>&nbsp;
 <a href="https://mastodon.airscript.it" target="blank">
-  <img src="./assets/images/mastodon.svg" alt="Mastodon" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/mastodon.svg" alt="Mastodon" width="30px" />
 </a>&nbsp;
 <a href="https://youtube.airscript.it" target="blank">
-  <img src="./assets/images/youtube.svg" alt="YouTube" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/youtube.svg" alt="YouTube" width="30px" />
 </a>&nbsp;
 <a href="https://twitch.airscript.it" target="blank">
-  <img src="./assets/images/twitch.svg" alt="Twitch" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitch.svg" alt="Twitch" width="30px" />
 </a>&nbsp;
 <a href="https://devdotto.airscript.it" target="blank">
-  <img src="./assets/images/devdotto.svg" alt="Devdotto" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/devdotto.svg" alt="Devdotto" width="30px" />
 </a>&nbsp;
 <a href="https://gitlab.airscript.it" target="blank">
-  <img src="./assets/images/gitlab.svg" alt="GitLab" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/gitlab.svg" alt="GitLab" width="30px" />
 </a>&nbsp;
 <a href="https://discord.airscript.it" target="blank">
-  <img src="./assets/images/discord.svg" alt="Discord" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/discord.svg" alt="Discord" width="30px" />
 </a>&nbsp;
 <a href="https://psn.airscript.it" target="blank">
-  <img src="./assets/images/playstation.svg" alt="PlayStation" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/playstation.svg" alt="PlayStation" width="30px" />
 </a>&nbsp;
 <a href="https://tinyurl.com/nintendo-switch-airscript" target="blank">
-  <img src="./assets/images/nintendo-switch.svg" alt="Nintendo Switch" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/nintendo-switch.svg" alt="Nintendo Switch" width="30px" />
 </a>&nbsp;
 <a href="https://linktree.airscript.it" target="blank">
-  <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linktree.svg" alt="Linktree" width="30px" />
 </a>
 
 ## Share Support
@@ -64,8 +64,8 @@ Donations can be made on different platforms and can be one-time or recurring.
 It is all up to you to choose to join the [Sponsorsheep](https://github.com/airscripts/sponsorsheep) gang or not!
 
 <a href="https://sponsor.airscript.it" target="blank">
-  <img src="./assets/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
 </a>&nbsp;
 <a href="https://kofi.airscript.it" target="blank">
-  <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
 </a>&nbsp;
