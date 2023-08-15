@@ -1,5 +1,5 @@
 # Hello World
-Hey there! I am Francesco known as Airscript on the web.  
+Hey there! I'm Francesco known as Airscript on the web.  
 I am a passionate Software Engineer that literally shares happiness with code.
 
 ## About Me
