@@ -26,6 +26,9 @@ Here you can find all kind of social links to connect with me:
 <a href="https://linkedin.airscript.it" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linkedin.svg" alt="LinkedIn" width="30px"/>
 </a>&nbsp;
+<a href="mailto:francesco@airscript.it" target="blank">
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/email.svg" alt="Email" width="30px"/>
+</a>&nbsp;
 <a href="https://telegram.airscript.it" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/telegram.svg" alt="Telegram" width="30px"/>
 </a>&nbsp;
