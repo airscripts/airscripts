@@ -14,11 +14,11 @@ I'm also trying to get better with content creation, making content that spans b
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
 
 ## Latest Posts
+- [Adding Tools To Your Repositories](https://dev.to/airscript/adding-tools-to-your-repositories-2o9h)
 - [Discovering With GitHub Explore](https://dev.to/airscript/discovering-with-github-explore-4d17)
 - [Making Your First Pull Request](https://dev.to/airscript/making-your-first-pull-request-4ahc)
 - [Multi Repository Documentation](https://dev.to/airscript/multi-repository-documentation-29fp)
 - [Documentation Made Easy](https://dev.to/airscript/documentation-made-easy-4eko)
-- [Linting Your Awesome Lists](https://dev.to/airscript/linting-your-awesome-lists-bai)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
