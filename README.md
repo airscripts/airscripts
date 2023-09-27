@@ -8,7 +8,7 @@ While doing this, from time to time I make my own open source softwares that spa
 Other than that I am also a Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and lover of [@Pannyloo](https://instagram.com/pannyloo), who's my favorite person.
 
 ## Current Projects
-Actually I'm working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck) and [Analscript](https://github.com/airscripts/analscript).  
+Actually I'm working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck) and [cacca](https://github.com/airscripts/cacca).  
 Aside this, I'm gathering knowledge to achieve [CKA](https://www.cncf.io/certification/cka/) since I am deeply interested in Kubernetes and related stuff.  
 I'm also trying to get better with content creation, making content that spans between videos, posts and blog articles.
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
