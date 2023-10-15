@@ -15,10 +15,10 @@ For this reason I've created and opened, aside my social channels, a [personal b
 
 ## Latest Posts
 - [Making Your First Pull Request](https://dev.to/airscript/making-your-first-pull-request-4ahc)
+- [Patreon Meets GitHub Sponsors](https://dev.to/airscript/patreon-meets-github-sponsors-2mha)
 - [No More Problems With GitHub Issues](https://dev.to/airscript/no-more-problems-with-github-issues-20ne)
 - [Navigating Code In GitHub Repositories](https://dev.to/airscript/navigating-code-in-github-repositories-10km)
 - [Creating A New GitHub Repository](https://dev.to/airscript/creating-a-new-repository-4ff3)
-- [Adding Tools To Your Repositories](https://dev.to/airscript/adding-tools-to-your-repositories-2o9h)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
