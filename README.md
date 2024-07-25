@@ -5,11 +5,10 @@ I am a passionate Software Engineer that literally shares happiness with code.
 ## About Me
 Currently I am working as a Remote Software Engineer for [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/).  
 While doing this, from time to time I make my own open source softwares that span between CLIs, TUIs and guides mostly.  
-Other than that I am also a Coordinator for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
+Other than that I am also a Volunteer for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
 
 ## Current Projects
 Actually I'm working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck), but I'm planning to launch a new project soon.  
-Aside this, I'm gathering knowledge to achieve [CKA](https://www.cncf.io/certification/cka/) since I am deeply interested in Kubernetes and related stuff.  
 I'm also trying to get better with content creation, making content that spans between videos, posts and blog articles.
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
 
