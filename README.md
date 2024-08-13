@@ -3,7 +3,7 @@ Hey there! I'm Francesco known as Airscript on the web.
 I am a passionate Software Engineer that literally shares happiness with code.
 
 ## About Me
-Currently I am working as a Remote Software Engineer for [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/).  
+Currently I am working as a Remote Senior Software Engineer for [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/).  
 While doing this, from time to time I make my own open source softwares that span between CLIs, TUIs and guides mostly.  
 Other than that I am also a Volunteer for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
 
