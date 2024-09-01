@@ -22,43 +22,43 @@ For this reason I've created and opened, aside my social channels, a [personal b
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
 
-<a href="https://linkedin.airscript.it" target="blank">
+<a href="https://www.linkedin.com/in/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linkedin.svg" alt="LinkedIn" width="30px"/>
 </a>&nbsp;
 <a href="mailto:francesco@airscript.it" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/email.svg" alt="Email" width="30px"/>
 </a>&nbsp;
-<a href="https://telegram.airscript.it" target="blank">
+<a href="https://t.me/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/telegram.svg" alt="Telegram" width="30px"/>
 </a>&nbsp;
-<a href="https://twitter.airscript.it" target="blank">
+<a href="https://x.com/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitter.svg" alt="Twitter" width="30px" />
 </a>&nbsp;
-<a href="https://mastodon.airscript.it" target="blank">
+<a href="https://fosstodon.org/@airscript/" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/mastodon.svg" alt="Mastodon" width="30px" />
 </a>&nbsp;
-<a href="https://youtube.airscript.it" target="blank">
+<a href="https://www.youtube.com/@airscripts" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/youtube.svg" alt="YouTube" width="30px" />
 </a>&nbsp;
-<a href="https://twitch.airscript.it" target="blank">
+<a href="https://www.twitch.tv/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitch.svg" alt="Twitch" width="30px" />
 </a>&nbsp;
-<a href="https://devdotto.airscript.it" target="blank">
+<a href="https://dev.to/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/devdotto.svg" alt="Devdotto" width="30px" />
 </a>&nbsp;
-<a href="https://gitlab.airscript.it" target="blank">
+<a href="https://gitlab.com/airscripts" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/gitlab.svg" alt="GitLab" width="30px" />
 </a>&nbsp;
-<a href="https://discord.airscript.it" target="blank">
+<a href="https://discord.com/users/696734789520064552" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/discord.svg" alt="Discord" width="30px" />
 </a>&nbsp;
-<a href="https://psn.airscript.it" target="blank">
+<a href="https://psnprofiles.com/Airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/playstation.svg" alt="PlayStation" width="30px" />
 </a>&nbsp;
 <a href="https://tinyurl.com/nintendo-switch-airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/nintendo-switch.svg" alt="Nintendo Switch" width="30px" />
 </a>&nbsp;
-<a href="https://linktree.airscript.it" target="blank">
+<a href="https://linktr.ee/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linktree.svg" alt="Linktree" width="30px" />
 </a>
 
