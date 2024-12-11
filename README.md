@@ -3,12 +3,12 @@ Hey there! I'm Francesco known as Airscript on the web.
 I am a passionate Software Engineer that literally shares happiness with code.
 
 ## About Me
-Currently I am working as a Remote Senior Software Engineer for [@hlpy](https://www.linkedin.com/company/hlpy/mycompany/).  
-While doing this, from time to time I make my own open source softwares that span between CLIs, TUIs and guides mostly.  
-Other than that I am also a Volunteer for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
+Currently I am the Co-Founder and the Chief Technology Officer of [@Welyk](https://www.linkedin.com/company/welyk/).  
+While doing this, from time to time I contribute to and make my own open source software that span between CLIs, TUIs and guides mostly.  
+Other than that I am also a Referent for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
 
 ## Current Projects
-Actually I'm working on [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck), but I'm planning to launch a new project soon.  
+Actually I'm working on growing the audience and value of [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck).  
 I'm also trying to get better with content creation, making content that spans between videos, posts and blog articles.
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
 
