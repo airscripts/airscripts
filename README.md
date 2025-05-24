@@ -3,7 +3,7 @@ Hey there! I'm Francesco known as Airscript on the web.
 I am a passionate Software Engineer that literally shares happiness with code.
 
 ## About Me
-Currently I am the Co-Founder and the Chief Technology Officer of [@Welyk](https://www.linkedin.com/company/welyk/).  
+Currently I am working as a freelance Software Engineer.  
 While doing this, from time to time I contribute to and make my own open source software that span between CLIs, TUIs and guides mostly.  
 Other than that I am also a Referent for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
 
