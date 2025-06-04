@@ -34,29 +34,8 @@ Here you can find all kind of social links to connect with me:
 <a href="https://x.com/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitter.svg" alt="Twitter" width="30px" />
 </a>&nbsp;
-<a href="https://fosstodon.org/@airscript/" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/mastodon.svg" alt="Mastodon" width="30px" />
-</a>&nbsp;
-<a href="https://www.youtube.com/@airscripts" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/youtube.svg" alt="YouTube" width="30px" />
-</a>&nbsp;
-<a href="https://www.twitch.tv/airscript" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/twitch.svg" alt="Twitch" width="30px" />
-</a>&nbsp;
 <a href="https://dev.to/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/devdotto.svg" alt="Devdotto" width="30px" />
-</a>&nbsp;
-<a href="https://gitlab.com/airscripts" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/gitlab.svg" alt="GitLab" width="30px" />
-</a>&nbsp;
-<a href="https://discord.com/users/696734789520064552" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/discord.svg" alt="Discord" width="30px" />
-</a>&nbsp;
-<a href="https://psnprofiles.com/Airscript" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/playstation.svg" alt="PlayStation" width="30px" />
-</a>&nbsp;
-<a href="https://tinyurl.com/nintendo-switch-airscript" target="blank">
-  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/nintendo-switch.svg" alt="Nintendo Switch" width="30px" />
 </a>&nbsp;
 <a href="https://linktr.ee/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/linktree.svg" alt="Linktree" width="30px" />
