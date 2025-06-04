@@ -13,11 +13,11 @@ I'm also trying to get better with content creation, making content that spans b
 For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
 
 ## Latest Posts
+- [If Gael Had Turned Back](https://blog.airscript.it/posts/life/if-gael-had-turned-back/)
 - [Less Feetpics, Less Footprint](https://blog.airscript.it/posts/green-bytes/less-feetpics-less-footprint/)
 - [Making Your First Pull Request](https://dev.to/airscript/making-your-first-pull-request-4ahc)
 - [Patreon Meets GitHub Sponsors](https://dev.to/airscript/patreon-meets-github-sponsors-2mha)
 - [No More Problems With GitHub Issues](https://dev.to/airscript/no-more-problems-with-github-issues-20ne)
-- [Navigating Code In GitHub Repositories](https://dev.to/airscript/navigating-code-in-github-repositories-10km)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
