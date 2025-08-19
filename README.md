@@ -46,9 +46,9 @@ You can show support in different ways: you can follow me here on other linked p
 Donations can be made on different platforms and can be one-time or recurring.  
 It is all up to you to choose to join the [Sponsorsheep](https://github.com/airscripts/sponsorsheep) gang or not!
 
-<a href="https://sponsor.airscript.it" target="blank">
+<a href="https://github.com/sponsors/airscripts" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
 </a>&nbsp;
-<a href="https://kofi.airscript.it" target="blank">
+<a href="https://ko-fi.com/airscript" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
 </a>&nbsp;
