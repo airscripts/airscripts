@@ -1,16 +1,19 @@
 # Hello World
-Hey there! I'm Francesco known as Airscript on the web.  
-I am a passionate Software Engineer that literally shares happiness with code.
+Hey there! I'm Francesco, known as Airscript on the web.  
+I’m a passionate Software Engineer who loves sharing happiness through code.
 
 ## About Me
+I’m currently Head of Technology at [Beelzebub](https://beelzebub.ai), where we make the internet safer with AI-powered cybersecurity. We deploy full-stack AI honeypots and autonomous SOC tools that detect, engage, and neutralize threats across web apps, cloud environments, IoT devices, and more, giving teams real-time threat intelligence with zero false positives.  
+
+Alongside Beelzebub, I do freelance software engineering—building CLI/TUI tools, web applications, and infrastructures—and I help others with interview prep, resume reviews, and tech guidance.  
+
+In the open-source world, I love creating fun and useful projects that I share freely on GitHub. I’m also a volunteer and referent for [Plastic Free](https://www.plasticfreeonlus.it/) and support multiple tech communities, fostering collaboration and knowledge sharing.  
+
+If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.
 Currently I am working as a freelance Software Engineer.  
-While doing this, from time to time I contribute to and make my own open source software that span between CLIs, TUIs and guides mostly.  
-Other than that I am also a Volunteer for [Plastic Free](https://www.plasticfreeonlus.it/), a Community Administrator for [Open Source Support](https://t.me/ptkdev_support_italian) and Supporter of [@Pannyloo](https://instagram.com/pannyloo).
 
 ## Current Projects
-Actually I'm working on growing the audience and value of [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck).  
-I'm also trying to get better with content creation, making content that spans between videos, posts and blog articles.
-For this reason I've created and opened, aside my social channels, a [personal blog](https://blog.airscript.it).
+Actually, I'm working on pushing [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck) toward 1000 stars and will soon announce a new project I’ve been working on for quite some time.
 
 ## Latest Posts
 - [If Gael Had Turned Back](https://blog.airscript.it/posts/life/if-gael-had-turned-back/)
