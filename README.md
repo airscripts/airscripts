@@ -9,8 +9,7 @@ Alongside Beelzebub, I do freelance software engineering—building CLI/TUI tool
 
 In the open-source world, I love creating fun and useful projects that I share freely on GitHub. I’m also a volunteer and referent for [Plastic Free](https://www.plasticfreeonlus.it/) and support multiple tech communities, fostering collaboration and knowledge sharing.  
 
-If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.
-Currently I am working as a freelance Software Engineer.  
+If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.  
 
 ## Current Projects
 Actually, I'm working on pushing [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck) toward 1000 stars and will soon announce a new project I’ve been working on for quite some time.
