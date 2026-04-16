@@ -12,7 +12,8 @@ In the open-source world, I love creating fun and useful projects that I share f
 If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.  
 
 ## Current Projects
-Actually, I'm working on pushing [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck) toward 1000 stars and recently released [LGTM](https://github.com/airscripts/lgtm).
+- [LGTM](https://github.com/airscripts/lgtm)
+- [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 
 ## Latest Posts
 - [If Gael Had Turned Back](https://blog.airscript.it/posts/life/if-gael-had-turned-back/)
