@@ -11,7 +11,8 @@ In the open-source world, I love creating fun and useful projects that I share f
 
 If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.  
 
-## Current Projects
+## Latest Projects
+- [Gitclaw](https://github.com/airscripts/gitclaw)
 - [LGTM](https://github.com/airscripts/lgtm)
 - [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 
