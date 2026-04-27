@@ -4,11 +4,8 @@ I’m a passionate Software Engineer who loves sharing happiness through code.
 
 ## About Me
 I’m currently Head of Technology at [Beelzebub](https://beelzebub.ai), where we make the internet safer with AI-powered cybersecurity. We deploy full-stack AI honeypots and autonomous SOC tools that detect, engage, and neutralize threats across web apps, cloud environments, IoT devices, and more, giving teams real-time threat intelligence with zero false positives.  
-
 Alongside Beelzebub, I do freelance software engineering building CLI/TUI tools, web applications, and infrastructures and I help others with interview prep, resume reviews, and tech guidance.  
-
 In the open-source world, I love creating fun and useful projects that I share freely on GitHub. I’m also a volunteer and referent for [Plastic Free](https://www.plasticfreeonlus.it/) and support multiple tech communities, fostering collaboration and knowledge sharing.  
-
 If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.  
 
 ## Latest Projects
