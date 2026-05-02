@@ -3,22 +3,26 @@ Hey there! I'm Francesco, known as Airscript on the web.
 I’m a passionate Software Engineer who loves sharing happiness through code.
 
 ## About Me
-I’m currently Head of Technology at [Beelzebub](https://beelzebub.ai), where we make the internet safer with AI-powered cybersecurity. We deploy full-stack AI honeypots and autonomous SOC tools that detect, engage, and neutralize threats across web apps, cloud environments, IoT devices, and more, giving teams real-time threat intelligence with zero false positives.  
-Alongside Beelzebub, I do freelance software engineering building CLI/TUI tools, web applications, and infrastructures and I help others with interview prep, resume reviews, and tech guidance.  
-In the open-source world, I love creating fun and useful projects that I share freely on GitHub. I’m also a volunteer and referent for [Plastic Free](https://www.plasticfreeonlus.it/) and support multiple tech communities, fostering collaboration and knowledge sharing.  
-If you’re reaching out for freelance support, career advice, or technical guidance, send me an email with "dinosaur" so I know you’ve read this and I’ll get back to you.  
+I’m Head of Technology at [Beelzebub](https://beelzebub.ai), where we use AI to make the internet safer. We build full-stack AI honeypots and autonomous SOC tools that detect, engage, and neutralize threats across web apps, cloud environments, IoT devices, and more, delivering real-time threat intelligence with zero false positives.
+
+I also work as a freelance software engineer, building CLI/TUI tools, web apps, and infrastructure, while helping others with interview prep, resume reviews, and technical guidance.
+
+Outside of work, I create open-source projects on GitHub, volunteer as a referent for [Plastic Free](https://www.plasticfreeonlus.it/), and support tech communities through collaboration and knowledge sharing.
+
+For freelance support, career advice, or technical guidance, email me and include “dinosaur” in your message.
 
 ## Latest Projects
+- [Agentskill](https://github.com/airscripts/agentskill)
 - [Gitclaw](https://github.com/airscripts/gitclaw)
 - [LGTM](https://github.com/airscripts/lgtm)
 - [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 
 ## Latest Posts
-- [If Gael Had Turned Back](https://blog.airscript.it/posts/life/if-gael-had-turned-back/)
 - [Less Feetpics, Less Footprint](https://blog.airscript.it/posts/green-bytes/less-feetpics-less-footprint/)
 - [Making Your First Pull Request](https://dev.to/airscript/making-your-first-pull-request-4ahc)
 - [Patreon Meets GitHub Sponsors](https://dev.to/airscript/patreon-meets-github-sponsors-2mha)
 - [No More Problems With GitHub Issues](https://dev.to/airscript/no-more-problems-with-github-issues-20ne)
+- [Navigating Code In GitHub Repositories](https://dev.to/airscript/navigating-code-in-github-repositories-10km)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
