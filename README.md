@@ -15,14 +15,15 @@ For freelance support, career advice, or technical guidance, email me and includ
 - [Agentskill](https://github.com/airscripts/agentskill)
 - [Gitclaw](https://github.com/airscripts/gitclaw)
 - [LGTM](https://github.com/airscripts/lgtm)
+- [romm](https://github.com/airscripts/romm)
 - [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 
 ## Latest Posts
+- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
 - [Less Feetpics, Less Footprint](https://blog.airscript.it/posts/green-bytes/less-feetpics-less-footprint/)
 - [Making Your First Pull Request](https://dev.to/airscript/making-your-first-pull-request-4ahc)
 - [Patreon Meets GitHub Sponsors](https://dev.to/airscript/patreon-meets-github-sponsors-2mha)
 - [No More Problems With GitHub Issues](https://dev.to/airscript/no-more-problems-with-github-issues-20ne)
-- [Navigating Code In GitHub Repositories](https://dev.to/airscript/navigating-code-in-github-repositories-10km)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
