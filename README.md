@@ -19,11 +19,11 @@ For freelance support, career advice, or technical guidance, email me and includ
 - [LGTM](https://github.com/airscripts/lgtm)
 
 ## Latest Posts
+- [AI Denialism In 2026 Is Becoming A Software Engineering Risk](https://dev.to/airscript/ai-denialism-in-2026-is-becoming-a-software-engineering-risk-5873)
 - [Changelogs Should Be Automated, Not Remembered](https://dev.to/airscript/changelogs-should-be-automated-not-remembered-3dbi)
 - [Model Sizing for Coding Agents: Bigger Is Not Always Better](https://dev.to/airscript/model-sizing-for-coding-agents-bigger-is-not-always-better-4m37)
 - [Your AGENTS.md Should Not Look the Same Everywhere](https://dev.to/airscript/your-agentsmd-should-not-look-the-same-everywhere-32po)
 - [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
-- [Less Feetpics, Less Footprint](https://blog.airscript.it/posts/green-bytes/less-feetpics-less-footprint/)
 
 ## Keep Connected
 Here you can find all kind of social links to connect with me:  
