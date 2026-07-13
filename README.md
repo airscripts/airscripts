@@ -14,7 +14,7 @@ For freelance support, career advice, or technical guidance, email me and includ
 ## Latest Projects
 - [Awesome Steam Deck](https://github.com/airscripts/awesome-steam-deck)
 - [Agentskill](https://github.com/airscripts/agentskill)
-- [ghitgud](https://github.com/airscripts/ghitgud)
+- [Gitfleet](https://github.com/airscripts/gitfleet)
 - [Gitclaw](https://github.com/airscripts/gitclaw)
 - [LGTM](https://github.com/airscripts/lgtm)
 
